@@ -1,0 +1,29 @@
+.navigation{
+    margin-left: 0;
+    margin-right: auto;
+    position:fixed;
+    top:20px;
+    right: 350px;
+    background-color: #FFF9F1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    .body{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-style: normal;
+        font-weight: 100;
+        background-color: #FFF9F1;
+    }
+
+   .hamburger menu{
+    position:absolute;
+    top: 20px;
+    right: 350px;
+   }
+
+   .footer{
+    background-color:beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+ .colorChange{
+    background-color:white;
+ }
